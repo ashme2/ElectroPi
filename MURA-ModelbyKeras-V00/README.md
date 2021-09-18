@@ -1,6 +1,6 @@
 # MURA-ModelbyKeras-V00
 
-MURA Model by Keras is a DL Model which design by Keras. I wrote this code during my course at Electro Pi (2018), but it's not finished yet. I'll work on completing it very soon.
+MURA Model by Keras is a DL Model which design by Keras API. I wrote this code during my course at Electro Pi (2018), but it's not finished yet. I'll work on completing it very soon.
 
 ## MURA: Bone X-Ray Deep Learning Competition
 ### By Stanford Machine Learning Group
